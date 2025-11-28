@@ -26,7 +26,8 @@ This report summarizes the structural design, finite element modelling, modal an
 - Beam and truss elements assigned density, Young’s modulus, Poisson ratio, section properties
   <img width="558" height="470" alt="image" src="https://github.com/user-attachments/assets/170b067c-fb13-4854-b477-040773b3aac9" />
 - Mesh generated after element assignment
-  <img width="1165" height="472" alt="image" src="https://github.com/user-attachments/assets/c4b6ecbc-8200-48b6-8ab4-856236092cfd" />
+ <img width="557" height="471" alt="image" src="https://github.com/user-attachments/assets/7cecee8d-6409-4436-aea8-dcdaf1437a55" />
+
 
 ### 3.3 Simplifications
 <img width="1702" height="433" alt="image" src="https://github.com/user-attachments/assets/b19f6d23-5d72-4a5f-a2e8-cda17d35b96b" />
