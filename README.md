@@ -22,11 +22,9 @@ This report summarizes the structural design, finite element modelling, modal an
 
 ### 3.2 Modelling Procedure
 - 399 keypoints, 1016 lines
- <img width="558" height="467" alt="image" src="https://github.com/user-attachments/assets/0cc8d28b-f1a4-4290-845c-1c7c641c2e4d" />
 - Beam and truss elements assigned density, Young’s modulus, Poisson ratio, section properties
-  <img width="558" height="470" alt="image" src="https://github.com/user-attachments/assets/170b067c-fb13-4854-b477-040773b3aac9" />
 - Mesh generated after element assignment
- <img width="557" height="471" alt="image" src="https://github.com/user-attachments/assets/7cecee8d-6409-4436-aea8-dcdaf1437a55" />
+<img width="1151" height="302" alt="image" src="https://github.com/user-attachments/assets/75957305-6bcb-4b10-bdbd-d9ea9c683f85" />
 
 
 ### 3.3 Simplifications
